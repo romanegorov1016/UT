@@ -1,1 +1,1 @@
-GIT_gui_test
+GIT
